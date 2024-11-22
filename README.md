@@ -12,7 +12,6 @@ The algorithm we proposed was aimed to offer an optimal route for all logistics 
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributors](#Contributors)
-* [License](#License)
 
 ## Installation
 ### Prerequisites
