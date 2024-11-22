@@ -1,0 +1,12 @@
+
+.DS_Store
+Outputs/*
+__pycache__/*
+Solutions/*
+Data/*
+.ipynb_checkpoints/*
+map.html
+map_nn.html
+Solutions_NN/*
+/map_exact.html
+Solutions_Exact/*
